@@ -152,52 +152,54 @@ const WebIcon = styled(FaGlobe)`
 
 const mainProjects = [
   {
-    link: "#",
+    //link: "#",
     alt: "Agile Methodology",
     title: "Agile Methodology",
     desc: "---",
-    icon: <GithubIcon />,
+    //icon: <GithubIcon />,
   },
   {
+    //link: "#",
     alt: "Data Science",
     title: "Data Science",
     desc: "Aplicamos técnicas de amostragem e estatística descritiva em dados reais de profissionais de Data Science usando o Google Colab, apresentando códigos, resultados e análises objetivas para cada questão no notebook final.",
   },
   {
-    link: "#",
+    //link: "#",
     alt: "DDD - Java",
     title: "DDD - Java",
     desc: "Criamos uma API RESTful focada no monitoramento de saúde mental, permitindo registrar dados do paciente e conectá-lo a profissionais e recursos de apoio.",
-    icon: <WebIcon />,
+    //icon: <WebIcon />,
   },
 ];
 
 const extraProjects = [
   {
-    link: "#",
+    //link: "#",
     alt: "Database",
     title: "Database",
     desc: "Realizamos o levantamento dos dados e criamos o modelo relacional completo — com tabelas, atributos, chaves e relacionamentos — além da implementação física do banco para a aplicação proposta.",
-    icon: <GithubIcon />,
+    //icon: <GithubIcon />,
   },
   {
-    link: "#",
+    link: "https://github.com/Gusta346/GS-PYTHON",
     alt: "Dynamic Programming",
     title: "Dynamic Programming",
-    desc: "---",
+    desc: "Este projeto implementa quatro abordagens para resolver o problema de seleção ótima de projetos com capacidade limitada de Horas-Especialista. É um mapeamento direto do Problema da Mochila 0/1 (0/1 Knapsack Problem).",
     icon: <GithubIcon />,
   },
   {
+    //link: "#",
     alt: "Network Architect",
     title: "Network Architect",
     desc: "Analisamos o monopólio da computação em nuvem e propomos como ela pode ser mais sustentável e distribuída em 2050.",
   },
   {
-    link: "#",
+    //link: "#",
     alt: "AR/VR Modelling",
     title: "AR/VR Modelling",
     desc: "Desenvolvemos uma experiência interativa na Unreal Engine 5.6 que demonstra a colaboração entre humano e máquina, mostrando como sistemas inteligentes podem aprender, reagir ou auxiliar o usuário em diferentes tarefas.",
-    icon: <GithubIcon />,
+    //icon: <GithubIcon />,
   },
 ];
 
